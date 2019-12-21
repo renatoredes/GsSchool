@@ -708,3 +708,12 @@ fabric.properties
 *_REMOTE_*.txt
 
 # End of https://www.gitignore.io/api/git
+
+# Created by https://www.gitignore.io/api/tortoisegit
+# Edit at https://www.gitignore.io/?templates=tortoisegit
+
+### TortoiseGit ###
+# Project-level settings
+/.tgitconfig
+
+# End of https://www.gitignore.io/api/tortoisegit
